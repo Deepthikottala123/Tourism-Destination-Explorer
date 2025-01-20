@@ -1,0 +1,96 @@
+.bg-container{
+    background-image:url("ocean.jpg");
+    height:100vh;
+    background-size:cover;
+    
+}
+.tourism-card{
+    text-align:center;
+    background : transparent;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    padding:10px;
+}
+.main-heading{
+    font-family:"Roboto";
+}
+.paragraph{
+    font-family:"Roboto"
+}
+.button{
+    height: 40px;
+    width: 136px;
+    color:white;
+    background-color:rgb(79, 198, 245);
+    border-radius:20px;
+    border-width:0px;
+}
+.favourite-place-bg-container{
+    background-image:url("background-1.jpg");
+    background-size:cover;
+    height:200vh;
+    
+} 
+.favourite-place-heading{
+    font-family:"Roboto";
+    font-weight: bold;
+    font-size:36px;
+    padding:25px;
+    color:white;
+}
+.favourite-places-card{
+    background-color:white;
+    padding:25px;
+    border-radius:10px;
+    margin-left:150px;
+    margin-right: 150px;
+    margin-top: 25px;
+    margin-bottom:25px;
+    display:flex;
+    justify-content: center;
+}
+.favourite-place-card-heading{
+    font-size:25px;
+    font-family:"Roboto";
+    color:#0f0e46;
+    font-weight:bold;
+}
+.favourite-place-card-description{
+    font-family:"Roboto";
+    font-size:20px;
+    color:rgb(106, 109, 122);
+    display:flex;
+    justify-content:center;
+}
+.favourite-places-card-image{
+    height:200px;
+    width:300px;
+}
+.bg-container-image{
+    background-image:url("background-2.jpg");
+    background-size:cover;
+}
+.container-heading{
+    color:white;
+    font-family:"Roboto";
+    font-weight: bold;
+    padding:10px;
+}
+.detailed-view-card-container{
+    background-color:white;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin:15px;
+}
+.detailed-view-card-heading{
+  font-family:"Roboto";
+  color:#111111;
+  font-weight:bold;
+}
+.deatiled-view-card-description{
+  font-family:"Roboto";
+  color:#111111;
+}
+.detailed-view-card-text-container{
+  padding:10px;
+}
